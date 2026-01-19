@@ -1,8 +1,8 @@
 ﻿export default function Home() {
     return (
-        <main style={{ padding: 40, fontFamily: "Arial" }}>
+        <main style={{ padding: 40 }}>
             <h1>5C Showroom ✅</h1>
-            <p>If you can see this, routing is working.</p>
+            <p>The site is working correctly.</p>
         </main>
     );
 }
